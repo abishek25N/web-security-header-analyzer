@@ -1,1 +1,6 @@
 # web-security-header-analyzer
+POWERSHELL
+py -3.11 -m venv .venv
+C:\Users\Abhishek\Web_Security_Header_Analyzer_Complete\web_security_header_analyzer
+pip install -r requirements.txt
+streamlit run app.py
